@@ -6,7 +6,7 @@ from datetime import  datetime
 
 
 Email = "rehan020344@gmail.com"
-Password = "majj upjc ryjf wvsb"
+Password = "majj upjc ryjf wvsb"  ## Its dummy Paasowrd , youo need to set for account in order to work
 
 
 df = pd.read_csv("birthdays.csv")
